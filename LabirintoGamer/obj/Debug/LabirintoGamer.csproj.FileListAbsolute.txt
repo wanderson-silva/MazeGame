@@ -1,0 +1,6 @@
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\bin\Debug\LabirintoGamer.exe.config
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\bin\Debug\LabirintoGamer.exe
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\bin\Debug\LabirintoGamer.pdb
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\obj\Debug\LabirintoGamer.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\obj\Debug\LabirintoGamer.exe
+D:\Documentos\Visual Studio 2015\Projects\LabirintoGamer\LabirintoGamer\obj\Debug\LabirintoGamer.pdb
